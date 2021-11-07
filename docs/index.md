@@ -42,7 +42,7 @@ A continuación están los enlaces al fichero fuente y al stl generado.
 
 | Archivo fuente FreeCAD | Archivo stl |
 |:|:|
-|[Archivo fuente FreeCAD](./img/indice/tarjetero.FCStd) |[Archivo stl](./img/indice/tarjetero.stl)
+|[Archivo fuente FreeCAD](./indice/tarjetero.FCStd) |[Archivo stl](./indice/tarjetero.stl)
 
 </center>
 
