@@ -55,3 +55,5 @@ El aspecto final del montaje es el de la imagen siguiente.
 | ![Aspecto del objeto de escritorio finalizado](./img/indice/tarjetero.png) |
 
 </center>
+
+La imagen se ha tomado de un objeto de escritorio que se ha construido a partir del stl del objeto para la base a escala 1:1 y el modelo de Robocilio de 170 mm. Ambas piezas se han adherido utilizando el pegamento [PrintaGlue](https://aprintapro.com/en/PrintaGlue_1) de [AprintaPro](https://aprintapro.com/).
